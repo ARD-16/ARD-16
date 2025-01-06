@@ -1,4 +1,6 @@
-## Olá! Eu sou o Abraão Diniz!✋🏻
+# Olá! Eu sou o ARD!
+
+Abraão Rodrigues Diniz, estudante de programação, graduando em Análise e Desenvolvimento de Sistemas.
 
 ## Tecnologias que eu uso no meu dia
 
